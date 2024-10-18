@@ -45,3 +45,9 @@
 
 <a href='https://t.me/+u3zlb5y6OfxhOTdk' target="_blank"><img alt='TELEGRAM' src='https://img.shields.io/badge/Telegram Group-black?style=for-the-badge&logo=Telegram&logoColor=blue'/></a>
 </details>
+
+##>
+
+## SESSION_HERE
+
+<a href='https://replit.com/@opaksmt/Fire-MD-bot-pair?v=1' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>

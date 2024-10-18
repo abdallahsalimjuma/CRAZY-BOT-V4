@@ -39,7 +39,7 @@
 
 <a href='https://wa.me/255756715126' target="_blank"><img alt='WHATSAPP' src='https://img.shields.io/badge/Wa Me Here-black?style=for-the-badge&logo=whatsapp&logoColor=green'/></a>
 
-<a href='https://www.youtube.com/@h' target="_blank"><img alt='YOUTUBE' src='https://img.shields.io/badge/Tutorial Here In Youtube-black?style=for-the-badge&logo=youtube&logoColor=red'/></a>
+<a href='https://www.youtube.com/@herokuplatform' target="_blank"><img alt='YOUTUBE' src='https://img.shields.io/badge/Tutorial Here In Youtube-black?style=for-the-badge&logo=youtube&logoColor=red'/></a>
 
 <a href='t.me/freditech' target="_blank"><img alt='TELEGRAM' src='https://img.shields.io/badge/Telegram For Dev-blacki?style=for-the-badge&logo=telegram&logoColor=blue'/></a>
 

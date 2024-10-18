@@ -46,7 +46,7 @@
 <a href='https://t.me/+u3zlb5y6OfxhOTdk' target="_blank"><img alt='TELEGRAM' src='https://img.shields.io/badge/Telegram Group-black?style=for-the-badge&logo=Telegram&logoColor=blue'/></a>
 </details>
 
-##>
+
 
 ## SESSION_HERE
 

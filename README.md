@@ -1,5 +1,5 @@
  <a href="https://whatsapp.com/channel/0029VaihcQv84Om8LP59fO3f">
- <img alt="FREDI MD" height="300" src="https://i.imgur.com/cb8SxoX.jpeg">
+ <img alt="FREDI MD" height="300" src="https://files.catbox.moe/hlpfuu.jpg">
 
   ## ***FREDI MD MADE BY FREDI EZRA***
 

@@ -50,4 +50,4 @@
 
 ## SESSION_HERE
 
-<a href='https://replit.com/@abdallahsalimjuma/CRAZY-BOT-V4-bot-pair?v=1' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://replit.com/@abdallahsalimjuma/CRAZY-BOT-V4-pair?v=1' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>

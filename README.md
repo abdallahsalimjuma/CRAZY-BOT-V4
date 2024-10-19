@@ -1,6 +1,6 @@
 <p align="center">  
   <a href="https://youtu.be/abdallahsalimjuma">
-    <img alt="Guru" height="300" src="https://files.catbox.moe/hlpfuu.jpg">
+    <img alt="CRAZY" height="300" src="https://files.catbox.moe/hlpfuu.jpg">
     <h1 align="center">CRAZY-BOT-V4</h1>
   </a>
 </p>

@@ -22,3 +22,22 @@
 </div>
 <p align="center">
   <a
+
+##
+
+#### DEPLOY TO RENDER
+
+
+
+
+</details>
+
+<details>
+<summary>For Set Up Tap Here💯</summary>
+
+1. If You don't have a account in Render. Create a account.
+   <a href=' https://code-generation-1.onrender.com./register' target="_blank"><img alt='Create Your Account Now' src='https://img.shields.io/badge/Create Your Account Now-black?style=for-the-badge&logo=render&logoColor=blue'/></a>
+
+2. Now Deploy
+    <a href=' https://code-generation-1.onrender.com' target="_blank"><img alt='Deploy On Render Here' src='https://img.shields.io/badge/Deploy On Render Here-black?style=for-the-badge&logo=render&logoColor=blue'/></a>
+</details>

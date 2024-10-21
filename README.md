@@ -13,4 +13,12 @@
 <a href="https://github.com/abdallahsalimjuma/CRAZY-BOT-V4/network/members"><img title="Fork" src="https://img.shields.io/github/forks/abdallahsalimjuma/CRAZY-BOT-V4?style=social"></a>
 <a href="https://github.com/abdallahsalimjuma/CRAZY-BOT-V4/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/abdallahsalimjuma/CRAZY-BOT-V4?label=Watching&style=social"></a>
 <a href="https://app.fossa.com/projects/git%2Bgithub.com%2Fabdallahsalimjuma%2FCRAZY-BOT-V4?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Fabdallahsalimjuma%2FCRAZY-BOT-V4.svg?type=shield"/></a>
-</p>
+</p
+
+###
+
+  <div align="center">
+  <img src="https://spogit.vercel.app/api?theme=dark&black=true&scan=true" alt="Widget with the current Spotify song"  />
+</div>
+<p align="center">
+  <a

@@ -23,5 +23,4 @@
 <p align="center">
   <a
 
-         use this pairing 02 
-<a href='https://code-generation-1.onrender.com/pair' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/PAIRING CODE-002-magenta?style=for-the-badge&logo=opencv&logoColor=white'/></a>
+

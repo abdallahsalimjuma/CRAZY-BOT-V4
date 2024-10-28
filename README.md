@@ -25,11 +25,3 @@
 
 
 
-***GET YOURE SESSION ID BY***
-
-1. ***[QR CODE](https://gpt-qr-code.onrender.com/elisa)***
-
-2. ***[PARING CODE](https://code-generation-3.onrender.com/pair)***
-
-
-     `UPLOAD THE CREEDS.JS FILE YOU GET TO THE AUTHENTICATORS FILE ON THE REPO... THEN DEPLOY WITHOUT FILLING SESSION ID IN APP.JSON`

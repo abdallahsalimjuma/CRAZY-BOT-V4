@@ -70,7 +70,7 @@
 | MODE | mode public or private |
 | autoRead | make it true if you want bot to read messages |
 | statusview | make it true if you want bot to view status | 
-| OWNERS | owner number(2349013432338; Opaksfire) | 
+| OWNERS | owner number(255716945971; CRAZY BOT) | 
 | BOTNAME | Your Bot Name | 
 | antidelete | bot will forward deleted messages if you make it true | 
 
